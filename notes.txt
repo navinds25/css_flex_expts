@@ -1,0 +1,2 @@
+alternative:
+add master and slave as components for the same flex container with align-self.
